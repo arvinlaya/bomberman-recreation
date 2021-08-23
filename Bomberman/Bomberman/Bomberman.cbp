@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Bomberman" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="BlocksClass\;BlocksHeader\;EntitiesClass\;EntitiesHeader\;ItemsClass\;ItemsHeader\;System\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Bomberman" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Bomberman" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="../SDL2/i686-w64-mingw32/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image" />
+			<Add directory="../SDL2/i686-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="Barrel.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="Barrel.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="Bazooka.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Bazooka.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Bomb.cpp">
+			<Option virtualFolder="EntitiesClass/" />
+		</Unit>
+		<Unit filename="Bomb.h">
+			<Option virtualFolder="EntitiesHeader/" />
+		</Unit>
+		<Unit filename="BombAdd.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="BombAdd.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Brick.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="Brick.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="Cloud.cpp">
+			<Option virtualFolder="EntitiesClass/" />
+		</Unit>
+		<Unit filename="Cloud.h">
+			<Option virtualFolder="EntitiesHeader/" />
+		</Unit>
+		<Unit filename="CommonCrate.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="CommonCrate.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="Crate.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="Crate.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="Entity.cpp">
+			<Option virtualFolder="EntitiesClass/" />
+		</Unit>
+		<Unit filename="Entity.h">
+			<Option virtualFolder="EntitiesHeader/" />
+		</Unit>
+		<Unit filename="F.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="F.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Flag.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="Flag.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="Freeze.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Freeze.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Game.cpp">
+			<Option virtualFolder="System/" />
+		</Unit>
+		<Unit filename="Game.h">
+			<Option virtualFolder="System/" />
+		</Unit>
+		<Unit filename="HardBrick.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="HardBrick.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="HealthBar.cpp">
+			<Option virtualFolder="System/" />
+		</Unit>
+		<Unit filename="HealthBar.h">
+			<Option virtualFolder="System/" />
+		</Unit>
+		<Unit filename="Herb.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Herb.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Item.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Item.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Jumble.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Jumble.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Laser.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Laser.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="LaserBeam.cpp">
+			<Option virtualFolder="EntitiesClass/" />
+		</Unit>
+		<Unit filename="LaserBeam.h">
+			<Option virtualFolder="EntitiesHeader/" />
+		</Unit>
+		<Unit filename="Lightning.cpp">
+			<Option virtualFolder="EntitiesClass/" />
+		</Unit>
+		<Unit filename="Lightning.h">
+			<Option virtualFolder="EntitiesHeader/" />
+		</Unit>
+		<Unit filename="MetalCrate.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="MetalCrate.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="Monster.cpp">
+			<Option virtualFolder="EntitiesClass/" />
+		</Unit>
+		<Unit filename="Monster.h">
+			<Option virtualFolder="EntitiesHeader/" />
+		</Unit>
+		<Unit filename="Mushroom.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Mushroom.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Player.cpp">
+			<Option virtualFolder="EntitiesClass/" />
+		</Unit>
+		<Unit filename="Player.h">
+			<Option virtualFolder="EntitiesHeader/" />
+		</Unit>
+		<Unit filename="Portal.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Portal.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="PortalDestination.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="PortalDestination.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="PortalSource.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="PortalSource.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="PortalTimer.cpp">
+			<Option virtualFolder="System/" />
+		</Unit>
+		<Unit filename="PortalTimer.h">
+			<Option virtualFolder="System/" />
+		</Unit>
+		<Unit filename="PositionHistory.cpp">
+			<Option virtualFolder="System/" />
+		</Unit>
+		<Unit filename="PositionHistory.h">
+			<Option virtualFolder="System/" />
+		</Unit>
+		<Unit filename="RangeAdd.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="RangeAdd.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Rocket.cpp">
+			<Option virtualFolder="EntitiesClass/" />
+		</Unit>
+		<Unit filename="Rocket.h">
+			<Option virtualFolder="EntitiesHeader/" />
+		</Unit>
+		<Unit filename="Smite.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Smite.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Snail.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Snail.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="Turtle.cpp">
+			<Option virtualFolder="EntitiesClass/" />
+		</Unit>
+		<Unit filename="Turtle.h">
+			<Option virtualFolder="EntitiesHeader/" />
+		</Unit>
+		<Unit filename="Wall.cpp">
+			<Option virtualFolder="BlocksClass/" />
+		</Unit>
+		<Unit filename="Wall.h">
+			<Option virtualFolder="BlocksHeader/" />
+		</Unit>
+		<Unit filename="Zanic.cpp">
+			<Option virtualFolder="ItemsClass/" />
+		</Unit>
+		<Unit filename="Zanic.h">
+			<Option virtualFolder="ItemsHeader/" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option virtualFolder="System/" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Brick.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="195" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Portal.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="96" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Jumble.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="264" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="301" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="Snail.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="201" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Jumble.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="245" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Game.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3256" topLine="97" />
+		</Cursor>
+	</File>
+	<File name="Snail.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="192" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Item.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="574" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="HealthBar.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1351" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="Monster.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="645" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="HealthBar.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="601" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="Turtle.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5193" topLine="178" />
+		</Cursor>
+	</File>
+	<File name="Laser.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="245" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Herb.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="233" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="PortalSource.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="333" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Laser.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="139" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Zanic.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Crate.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="299" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Turtle.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1375" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="LaserBeam.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="646" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Game.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="71970" topLine="1712" />
+		</Cursor>
+	</File>
+	<File name="Wall.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="126" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Herb.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="184" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Player.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6579" topLine="278" />
+		</Cursor>
+	</File>
+	<File name="F.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="69" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Bomb.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="526" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Monster.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6530" topLine="239" />
+		</Cursor>
+	</File>
+	<File name="F.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="221" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Flag.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="426" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="PositionHistory.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="281" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Freeze.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="198" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="CommonCrate.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="327" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="PortalDestination.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="393" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Crate.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="298" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="Entity.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="225" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="Rocket.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1565" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="Freeze.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="245" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Lightning.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="415" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="CommonCrate.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="281" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="LaserBeam.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="84" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="HardBrick.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="324" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Portal.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="847" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="Barrel.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="271" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="Bazooka.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="57" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="PortalTimer.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="203" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="PositionHistory.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1022" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="HardBrick.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="292" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="Bazooka.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="149" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Smite.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="81" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cloud.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="958" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="Lightning.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="123" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="BombAdd.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="156" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="MetalCrate.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="139" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Barrel.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="313" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Rocket.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="121" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="Entity.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="573" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="PortalDestination.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="317" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cloud.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="518" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="Smite.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="251" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Brick.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="297" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Player.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2355" topLine="91" />
+		</Cursor>
+	</File>
+	<File name="Bomb.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="668" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="Zanic.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="239" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Flag.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="74" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="Item.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="207" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Wall.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="242" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

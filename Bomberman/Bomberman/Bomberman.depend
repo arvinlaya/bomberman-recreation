@@ -1,0 +1,1530 @@
+# depslib dependency file v1.0
+1585962841 source:c:\users\user\desktop\learning c\bomberman\bomberman\main.cpp
+	"Game.h"
+	<string>
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1585962780 source:c:\users\user\desktop\learning c\bomberman\bomberman\game.cpp
+	"Game.h"
+
+1585916518 c:\users\user\desktop\learning c\bomberman\bomberman\game.h
+	"Entity.h"
+	"Item.h"
+	"Player.h"
+	"Monster.h"
+	"Turtle.h"
+	"HealthBar.h"
+	"Wall.h"
+	"Brick.h"
+	"HardBrick.h"
+	"Crate.h"
+	"Barrel.h"
+	"Flag.h"
+	"CommonCrate.h"
+	"MetalCrate.h"
+	"Bazooka.h"
+	"Rocket.h"
+	"Zanic.h"
+	"Freeze.h"
+	"Snail.h"
+	"Laser.h"
+	"LaserBeam.h"
+	"Jumble.h"
+	"Portal.h"
+	"PortalSource.h"
+	"PortalDestination.h"
+	"Smite.h"
+	"Cloud.h"
+	"Lightning.h"
+	"Herb.h"
+	"F.h"
+	"BombAdd.h"
+	"RangeAdd.h"
+	"Bomb.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+	<iterator>
+	<memory>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1561870368 c:\users\user\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1585706226 source:c:\users\user\desktop\learning c\bomberman\bomberman\entity.cpp
+	"Entity.h"
+
+1585904408 c:\users\user\desktop\learning c\bomberman\bomberman\entity.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+	<iostream>
+
+1585917783 source:c:\users\user\desktop\learning c\bomberman\bomberman\player.cpp
+	"Player.h"
+
+1585917754 c:\users\user\desktop\learning c\bomberman\bomberman\player.h
+	"Entity.h"
+	"Item.h"
+	"Bazooka.h"
+	"PortalTimer.h"
+	"PositionHistory.h"
+	"HealthBar.h"
+	<memory>
+
+1584689412 source:c:\users\user\desktop\learning c\bomberman\bomberman\wall.cpp
+	"Wall.h"
+
+1584689468 c:\users\user\desktop\learning c\bomberman\bomberman\wall.h
+	"Entity.h"
+
+1584788417 source:c:\users\user\desktop\learning c\bomberman\bomberman\brick.cpp
+	"Brick.h"
+
+1584788421 c:\users\user\desktop\learning c\bomberman\bomberman\brick.h
+	"Entity.h"
+
+1584955103 source:c:\users\user\desktop\learning c\bomberman\bomberman\hardbrick.cpp
+	"HardBrick.h"
+
+1584955103 c:\users\user\desktop\learning c\bomberman\bomberman\hardbrick.h
+	"Entity.h"
+
+1584948622 source:c:\users\user\desktop\learning c\bomberman\bomberman\crate.cpp
+	"Crate.h"
+
+1584948635 c:\users\user\desktop\learning c\bomberman\bomberman\crate.h
+	"Entity.h"
+
+1584857924 source:c:\users\user\desktop\learning c\bomberman\bomberman\barrel.cpp
+	"Barrel.h"
+
+1584857918 c:\users\user\desktop\learning c\bomberman\bomberman\barrel.h
+	"Entity.h"
+
+1585905193 c:\users\user\desktop\learning c\bomberman\bomberman\bomb.h
+	"Entity.h"
+	"Player.h"
+
+1585907614 source:c:\users\user\desktop\learning c\bomberman\bomberman\bomb.cpp
+	"Bomb.h"
+
+1584505360 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\barrel.cpp
+	"Barrel.h"
+
+1584260721 c:\users\arvin\desktop\learning c\bomberman\bomberman\barrel.h
+	"Entity.h"
+
+1584505447 c:\users\arvin\desktop\learning c\bomberman\bomberman\entity.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1584505720 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\bomb.cpp
+	"Bomb.h"
+
+1584504695 c:\users\arvin\desktop\learning c\bomberman\bomberman\bomb.h
+	"Entity.h"
+	"Player.h"
+	<iostream>
+
+1584505339 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\brick.cpp
+	"Brick.h"
+
+1584236149 c:\users\arvin\desktop\learning c\bomberman\bomberman\brick.h
+	"Entity.h"
+
+1584505368 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\crate.cpp
+	"Crate.h"
+
+1584236528 c:\users\arvin\desktop\learning c\bomberman\bomberman\crate.h
+	"Entity.h"
+
+1584505465 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\entity.cpp
+	"Entity.h"
+
+1584505374 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\hardbrick.cpp
+	"HardBrick.h"
+
+1584236379 c:\users\arvin\desktop\learning c\bomberman\bomberman\hardbrick.h
+	"Entity.h"
+
+1584264261 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\main.cpp
+	<iostream>
+	"Game.h"
+
+1584506720 c:\users\arvin\desktop\learning c\bomberman\bomberman\game.h
+	"Entity.h"
+	"Player.h"
+	"Wall.h"
+	"Brick.h"
+	"HardBrick.h"
+	"Crate.h"
+	"Barrel.h"
+	"Bomb.h"
+	<iostream>
+	<vector>
+	<memory>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1584506777 c:\users\arvin\desktop\learning c\bomberman\bomberman\player.h
+	"Entity.h"
+	"iostream"
+
+1584150999 c:\users\arvin\desktop\learning c\bomberman\bomberman\wall.h
+	"Entity.h"
+
+1561870368 c:\users\arvin\desktop\learning c\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1584506092 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\player.cpp
+	"Player.h"
+
+1584505377 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\wall.cpp
+	"Wall.h"
+
+1584504708 source:c:\users\arvin\desktop\learning c\bomberman\bomberman\game.cpp
+	"Game.h"
+	<memory>
+	<vector>
+
+1584505360 source:c:\users\user\desktop\bomberman\bomberman\barrel.cpp
+	"Barrel.h"
+
+1584260721 c:\users\user\desktop\bomberman\bomberman\barrel.h
+	"Entity.h"
+
+1584505447 c:\users\user\desktop\bomberman\bomberman\entity.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<vector>
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\users\user\desktop\bomberman\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1584505339 source:c:\users\user\desktop\bomberman\bomberman\brick.cpp
+	"Brick.h"
+
+1584236149 c:\users\user\desktop\bomberman\bomberman\brick.h
+	"Entity.h"
+
+1584505368 source:c:\users\user\desktop\bomberman\bomberman\crate.cpp
+	"Crate.h"
+
+1584236528 c:\users\user\desktop\bomberman\bomberman\crate.h
+	"Entity.h"
+
+1584505465 source:c:\users\user\desktop\bomberman\bomberman\entity.cpp
+	"Entity.h"
+
+1584585425 source:c:\users\user\desktop\bomberman\bomberman\game.cpp
+	"Game.h"
+	<memory>
+	<vector>
+
+1584528184 c:\users\user\desktop\bomberman\bomberman\game.h
+	"Entity.h"
+	"Player.h"
+	"Wall.h"
+	"Brick.h"
+	"HardBrick.h"
+	"Crate.h"
+	"Barrel.h"
+	"Bomb.h"
+	<iostream>
+	<vector>
+	<iterator>
+	<memory>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1584506777 c:\users\user\desktop\bomberman\bomberman\player.h
+	"Entity.h"
+	"iostream"
+
+1584150999 c:\users\user\desktop\bomberman\bomberman\wall.h
+	"Entity.h"
+
+1584236379 c:\users\user\desktop\bomberman\bomberman\hardbrick.h
+	"Entity.h"
+
+1584585707 c:\users\user\desktop\bomberman\bomberman\bomb.h
+	"Entity.h"
+	"Player.h"
+	<iostream>
+
+1584505374 source:c:\users\user\desktop\bomberman\bomberman\hardbrick.cpp
+	"HardBrick.h"
+
+1584511119 source:c:\users\user\desktop\bomberman\bomberman\main.cpp
+	<iostream>
+	"Game.h"
+
+1584506745 source:c:\users\user\desktop\bomberman\bomberman\player.cpp
+	"Player.h"
+
+1584505377 source:c:\users\user\desktop\bomberman\bomberman\wall.cpp
+	"Wall.h"
+
+1584671539 source:c:\users\user\desktop\learning c\bomberman\bomberman\items.cpp
+	"Items.h"
+
+1584671545 c:\users\user\desktop\learning c\bomberman\bomberman\items.h
+	"Entity.h"
+
+1585126421 source:c:\users\user\desktop\learning c\bomberman\bomberman\bazooka.cpp
+	"Bazooka.h"
+
+1585128219 c:\users\user\desktop\learning c\bomberman\bomberman\bazooka.h
+	"Item.h"
+
+1585815033 source:c:\users\user\desktop\learning c\bomberman\bomberman\f.cpp
+	"F.h"
+
+1585814861 c:\users\user\desktop\learning c\bomberman\bomberman\f.h
+	"Item.h"
+
+1585301575 source:c:\users\user\desktop\learning c\bomberman\bomberman\freeze.cpp
+	"Freeze.h"
+
+1585301464 c:\users\user\desktop\learning c\bomberman\bomberman\freeze.h
+	"Item.h"
+
+1585546720 source:c:\users\user\desktop\learning c\bomberman\bomberman\herb.cpp
+	"Herb.h"
+
+1585545951 c:\users\user\desktop\learning c\bomberman\bomberman\herb.h
+	"Item.h"
+
+1585573551 source:c:\users\user\desktop\learning c\bomberman\bomberman\jumble.cpp
+	"Jumble.h"
+
+1585573479 c:\users\user\desktop\learning c\bomberman\bomberman\jumble.h
+	"Item.h"
+
+1585558184 source:c:\users\user\desktop\learning c\bomberman\bomberman\laser.cpp
+	"Laser.h"
+
+1585448371 c:\users\user\desktop\learning c\bomberman\bomberman\laser.h
+	"Item.h"
+
+1584948578 source:c:\users\user\desktop\learning c\bomberman\bomberman\mushroom.cpp
+	"Mushroom.h"
+
+1584948578 c:\users\user\desktop\learning c\bomberman\bomberman\mushroom.h
+
+1585705204 source:c:\users\user\desktop\learning c\bomberman\bomberman\portal.cpp
+	"Portal.h"
+
+1585662665 c:\users\user\desktop\learning c\bomberman\bomberman\portal.h
+	"Item.h"
+	"Player.h"
+	"PortalSource.h"
+	"PortalDestination.h"
+
+1585710416 source:c:\users\user\desktop\learning c\bomberman\bomberman\smite.cpp
+	"Smite.h"
+
+1585706565 c:\users\user\desktop\learning c\bomberman\bomberman\smite.h
+	"Item.h"
+
+1585305498 source:c:\users\user\desktop\learning c\bomberman\bomberman\snail.cpp
+	"Snail.h"
+
+1585305551 c:\users\user\desktop\learning c\bomberman\bomberman\snail.h
+	"Item.h"
+
+1585299952 source:c:\users\user\desktop\learning c\bomberman\bomberman\zanic.cpp
+	"Zanic.h"
+
+1585298807 c:\users\user\desktop\learning c\bomberman\bomberman\zanic.h
+	"Item.h"
+
+1585549567 source:c:\users\user\desktop\learning c\bomberman\bomberman\item.cpp
+	"Item.h"
+
+1585549589 c:\users\user\desktop\learning c\bomberman\bomberman\item.h
+	"Entity.h"
+
+1585887321 c:\users\user\desktop\learning c\bomberman\bomberman\monster.h
+	"Entity.h"
+	"Player.h"
+
+1585916081 source:c:\users\user\desktop\learning c\bomberman\bomberman\monster.cpp
+	"Monster.h"
+
+1585388677 source:c:\users\user\desktop\learning c\bomberman\bomberman\rocket.cpp
+	"Rocket.h"
+
+1585385267 c:\users\user\desktop\learning c\bomberman\bomberman\rocket.h
+	"Entity.h"
+	"Player.h"
+	"Monster.h"
+	"Turtle.h"
+	<math.h>
+
+1585887754 c:\users\user\desktop\learning c\bomberman\bomberman\turtle.h
+	"Entity.h"
+	"Player.h"
+
+1585916064 source:c:\users\user\desktop\learning c\bomberman\bomberman\turtle.cpp
+	"Turtle.h"
+
+1585557932 source:c:\users\user\desktop\learning c\bomberman\bomberman\laserbeam.cpp
+	"LaserBeam.h"
+
+1585530204 c:\users\user\desktop\learning c\bomberman\bomberman\laserbeam.h
+	"Player.h"
+	"Entity.h"
+	<vector>
+	<iterator>
+
+1585800663 c:\users\user\desktop\learning c\bomberman\bomberman\flag.h
+	"Entity.h"
+	"Player.h"
+
+1585800890 source:c:\users\user\desktop\learning c\bomberman\bomberman\flag.cpp
+	"Flag.h"
+
+1585639138 source:c:\users\user\desktop\learning c\bomberman\bomberman\portaldestination.cpp
+	"PortalDestination.h"
+
+1585639071 c:\users\user\desktop\learning c\bomberman\bomberman\portaldestination.h
+	"Entity.h"
+
+1585636821 c:\users\user\desktop\learning c\bomberman\bomberman\portalsource.h
+	"Entity.h"
+
+1585636981 source:c:\users\user\desktop\learning c\bomberman\bomberman\portalsource.cpp
+	"PortalSource.h"
+
+1585663487 c:\users\user\desktop\learning c\bomberman\bomberman\portaltimer.h
+	"Entity.h"
+
+1585663799 source:c:\users\user\desktop\learning c\bomberman\bomberman\portaltimer.cpp
+	"PortalTimer.h"
+
+1585711373 source:c:\users\user\desktop\learning c\bomberman\bomberman\lightning.cpp
+	"Lightning.h"
+
+1585711389 c:\users\user\desktop\learning c\bomberman\bomberman\lightning.h
+	"Entity.h"
+
+1585711554 c:\users\user\desktop\learning c\bomberman\bomberman\cloud.h
+	"Entity.h"
+	"Lightning.h"
+	"Player.h"
+
+1585711601 source:c:\users\user\desktop\learning c\bomberman\bomberman\cloud.cpp
+	"Cloud.h"
+
+1585733404 c:\users\user\desktop\learning c\bomberman\bomberman\metalcrate.h
+	"Entity.h"
+
+1585733624 source:c:\users\user\desktop\learning c\bomberman\bomberman\metalcrate.cpp
+	"MetalCrate.h"
+
+1585816227 c:\users\user\desktop\learning c\bomberman\bomberman\positionhistory.h
+	<vector>
+
+1585907285 source:c:\users\user\desktop\learning c\bomberman\bomberman\positionhistory.cpp
+	"PositionHistory.h"
+
+1585916197 source:c:\users\user\desktop\learning c\bomberman\bomberman\healthbar.cpp
+	"HealthBar.h"
+
+1585886593 c:\users\user\desktop\learning c\bomberman\bomberman\healthbar.h
+	"Entity.h"
+
+1585894381 source:c:\users\user\desktop\learning c\bomberman\bomberman\commoncrate.cpp
+	"CommonCrate.h"
+
+1585894235 c:\users\user\desktop\learning c\bomberman\bomberman\commoncrate.h
+	"Entity.h"
+
+1585904271 c:\users\user\desktop\learning c\bomberman\bomberman\bombadd.h
+	"Item.h"
+
+1585904439 c:\users\user\desktop\learning c\bomberman\bomberman\rangeadd.h
+	"Item.h"
+
+1585904504 source:c:\users\user\desktop\learning c\bomberman\bomberman\bombadd.cpp
+	"BombAdd.h"
+
+1585904477 source:c:\users\user\desktop\learning c\bomberman\bomberman\rangeadd.cpp
+	"RangeAdd.h"
+
